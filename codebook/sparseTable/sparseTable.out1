@@ -1,0 +1,6 @@
+Query of {0,4} = 0
+Query of {4,7} = 3
+Query of {7,8} = -1
+Query of {1,8} = -1
+Query of {7,7} = 12
+Query of {8,8} = -1
